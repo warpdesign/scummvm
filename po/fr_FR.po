@@ -4879,8 +4879,8 @@ msgid ""
 "Native MIDI support requires the Roland Upgrade from LucasArts,\n"
 "but %s is missing. Using AdLib instead."
 msgstr ""
-"Support MIDI natif requiert la mise à jour Roland de LucasArts,\n"
-"mais %s manque. Utilise AdLib à la place."
+"Le support MIDI natif requiert la mise à jour Roland de LucasArts,\n"
+"mais %s est manquant. Utilisez AdLib à la place."
 
 #: engines/scumm/scumm.cpp:2740
 msgid ""
